@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/putratzy11/Utama/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/CXXPLOIDBOT/Utamafer/main/install.sh)
 ```
 
 Screenshots:
