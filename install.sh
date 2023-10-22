@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r Utama
-    git clone https://github.com/putratzy11/Utama.git
+    git clone https://github.com/CXXPLOIDBOT/Utamafer.git
     cd Utama
     rm /var/www/pterodactyl/resources/scripts/Utama.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/putratzy11/Utama/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/CXXPLOIDBOT/Utamafer/main/repair.sh)
 }
 
 restoreBackUp(){
@@ -61,10 +61,10 @@ restoreBackUp(){
     sudo php artisan optimize:clear
 }
 echo "Wallpaper By Putra Official"
-echo "COMMAND INSTALL THEMA BY PUTRA OFFICIAL"
+echo "COMMAND INSTALL THEMA BY FERNESIA OFFICIAL"
 
-echo "Wa: +6285697886101"
-echo "Youtube: PUTRA OFFICIAL"
+echo "Wa: +6281261479077"
+echo "Youtube: FERDYHOST"
 echo "Instagram: @ysffsptraa"
 
 echo "BUAT KAMU YANG BUTUH VPS MURAH & BERGARANSI LANGSUNG"
